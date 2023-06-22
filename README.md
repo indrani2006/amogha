@@ -1,0 +1,2 @@
+# amogha
+this is ammu
